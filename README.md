@@ -78,6 +78,3 @@ pip install pandas scikit-learn
 
 ---
 
-## 🧑‍💻 Author
-
-Project by [Your Name].
